@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChapterLima">
         <activity
+            android:name=".UpdateFilmActivity"
+            android:exported="false" />
+        <activity
             android:name=".AddFilmActivity"
             android:exported="false" />
         <activity

@@ -52,6 +52,13 @@
         android:layout_height="wrap_content"/>
 
     <Button
+        android:id="@+id/updateFilm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/deleteFilm"
+        android:text="UPDATE DATA FILM" />
+
+    <Button
         android:id="@+id/deleteFilm"
         android:text="DELETE DATA FILM"
         android:layout_alignParentBottom="true"

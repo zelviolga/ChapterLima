@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/BinarAcademy/app/ChapterLima/app/src/main/res/layout/activity_add_film.xml" value="0.176" />
-        <entry key="..\:/BinarAcademy/app/ChapterLima/app/src/main/res/layout/activity_detail_film.xml" value="0.2" />
+        <entry key="..\:/BinarAcademy/app/ChapterLima/app/src/main/res/layout/activity_detail_film.xml" value="0.152" />
         <entry key="..\:/BinarAcademy/app/ChapterLima/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/BinarAcademy/app/ChapterLima/app/src/main/res/layout/activity_update_film.xml" value="0.2" />
         <entry key="..\:/BinarAcademy/app/ChapterLima/app/src/main/res/layout/item_film.xml" value="0.2" />
         <entry key="..\:/BinarAcademy/app/ChapterLima/app/src/main/res/layout/item_layout.xml" value="0.152" />
       </map>
