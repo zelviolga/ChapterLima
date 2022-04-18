@@ -10,7 +10,22 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
         android:theme="@style/Theme.ChapterLima">
+        <activity
+            android:name=".Senin.VmLiveData"
+            android:exported="false" />
+        <activity
+            android:name=".Senin.UsingVm"
+            android:exported="false" />
+        <activity
+            android:name=".Senin.WihoutVm"
+            android:exported="false" />
+        <activity
+            android:name=".Senin.MainActivity2"
+            android:exported="true">
+
+        </activity>
         <activity
             android:name=".UpdateFilmActivity"
             android:exported="false" />
